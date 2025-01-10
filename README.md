@@ -122,15 +122,3 @@ src/
 ├── types/                   # TypeScript types
 └── utils/                   # Utilities
 ```
-
-## 🤝 Contributing
-
-1. Fork repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Create Pull Request
-
-## 📄 License
-
-MIT
